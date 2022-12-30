@@ -13,7 +13,7 @@ The code is divided over multiple repositories:
 - `inpriparo` contains the code for the backend, which is written in PHP using the Laravel framework.
 - `vnint` contains the code for the frontend, which is written in TypeScript using the Angular framework.
 - `raspredo` contains the code for the algorithm which was supposed to allocate the students to the projects. It is written in Python, but is not yet functional.
-- `deployments` contains the configuration files for the deployment of the application using Docker and Docker Compose.
+- `deployment` contains the configuration files for the deployment of the application using Docker and Docker Compose.
 
 Additionally there are two repositories for the frontend and backend of the first version (which was submitted to Jugend forscht) of the project:
 
