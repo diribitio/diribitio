@@ -20,6 +20,10 @@ Additionally there are two repositories for the frontend and backend of the firs
 - `diribitio-backend` contains the the original backend code, which is written in PHP using the Laravel framework.
 - `diribitio-frontend` contains the original frontend code, written in TypeScript using the Angular framework.
 
+## Concluding remarks
+
+Even though the project was never deployed into production, I am still very much proud of what I achieved (considering I did all of this in grade 8 to 10). I had a lot of fun building the application and also learned a lot while doing so. For me it will always be a special project since it was the first big project I worked on and it marks a very important step in my live and helped me to get into software development and computer science in general. It's probably fair to say that I wouldn't be where I am today without this project.
+
 ## Screenshots
 
 ![](screenshots/screenshot-22.04.202204-21_02_41-1920x1053.png)
@@ -33,7 +37,3 @@ The frontend (Vnint) in dark mode.
 ![](screenshots/screenshot-22.04.202204-21_09_35-558x760.png)
 
 The frontend (Vnint) in light mode for mobile devices.
-
-## Concluding remarks
-
-Even though the project was never deployed into production, I am still very much proud of what I achieved (considering I did all of this in grade 8 to 10). I had a lot of fun building the application and also learned a lot while doing so. For me it will always be a special project since it was the first big project I worked on and it marks a very important step in my live and helped me to get into software development and computer science in general. It's probably fair to say that I wouldn't be where I am today without this project.
